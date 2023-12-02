@@ -1,16 +1,26 @@
-### Hi there 👋
 
-<!--
-**master-ajay/master-ajay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://res.cloudinary.com/dgoseg4oh/image/upload/v1679607441/Twitter_profile_cover_3_bhvuqf.png" width="100%">
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://linkedin.com/in/ttebify" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=LINKED-IN&color=cdf998&style=plastic&logo=linkedin&logo-color=white"/>
+  </a>
+  <a href="https://twitter.com/ttebify" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=TWITTER&color=23555f&style=plastic&logo=twitter&logo-color=white"/>
+  </a>
+  <a href="https://medium.com/@ttebify" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=MEDIUM&color=23555f&style=plastic&logo=medium&logo-color=dark"/>
+  </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2 align="center">Skills </h2>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=typescript,react,laravel,prisma,git,webpack,wordpress,js,python" />
+  </a>
+</p>
+
+<p href="https://discord.gg/onlp" align="center">
+    <img alt="" src="https://github-readme-stats.vercel.app/api?username=ttebify&theme=tokyonight&show_icons=true">
+</p>
