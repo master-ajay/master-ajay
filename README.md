@@ -2,7 +2,7 @@
 ## Hi, there 👋
 I'm a dedicated and disciplined web developer with extensive experience and a deep passion for programming.
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=master-ajay&count_private=true&show_icons=true&include_all_commits=true&theme=vue-dark&hide=contribs)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=master-ajay&count_private=true&show_icons=true&include_all_commits=true&theme=vue-dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=master-ajay&layout=compact&theme=vue-dark)
 
 ## ⚡ Technologies
@@ -19,6 +19,3 @@ I'm a dedicated and disciplined web developer with extensive experience and a de
 
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-<p href="https://discord.gg/onlp" align="center">
-    <img alt="" src="https://github-readme-stats.vercel.app/api?username=ttebify&theme=tokyonight&show_icons=true">
-</p>
