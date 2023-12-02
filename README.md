@@ -2,7 +2,7 @@
 ## Hi, there 👋
 I'm a dedicated and disciplined web developer with extensive experience and a deep passion for programming.
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=master-ajay&count_private=true&show_icons=true&include_all_commits=true&theme=vue-dark)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=master-ajay&count_private=true&show_icons=true&include_all_commits=true&theme=vue-dark&hide=contribs)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=master-ajay&layout=compact&theme=vue-dark)
 
 ## ⚡ Technologies
