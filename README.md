@@ -21,3 +21,6 @@
 <p href="https://discord.gg/onlp" align="center">
     <img alt="" src="https://github-readme-stats.vercel.app/api?username=master-ajay&theme=tokyonight&show_icons=true">
 </p>
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=master-ajay&count_private=true&show_icons=true&include_all_commits=true&theme=vue-dark&hide=contribs)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=master-ajay&layout=compact&theme=vue-dark)
