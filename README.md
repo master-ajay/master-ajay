@@ -2,14 +2,11 @@
 <img src="https://res.cloudinary.com/dgoseg4oh/image/upload/v1679607441/Twitter_profile_cover_3_bhvuqf.png" width="100%">
 
 <p align="center">
-  <a href="https://linkedin.com/in/master-ajay" target="_blank">
+  <a href="https://linkedin.com/in/ajay-pal-rawat" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=LINKED-IN&color=cdf998&style=plastic&logo=linkedin&logo-color=white"/>
   </a>
-  <a href="https://twitter.com/master-ajay" target="_blank">
+  <a href="https://twitter.com/AJAYPALRAWAT1" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=TWITTER&color=23555f&style=plastic&logo=twitter&logo-color=white"/>
-  </a>
-  <a href="https://medium.com/@master-ajay" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=MEDIUM&color=23555f&style=plastic&logo=medium&logo-color=dark"/>
   </a>
 </p>
 
